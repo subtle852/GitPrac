@@ -5,6 +5,10 @@
 3. 공부한 주요 기능:
 
 
-commit, push, pull,
-branch 생성, branch 병합,
-협업을 위해 다른 로컬 저장소에서의 git clone, pull, push, ...
+    commit, push, pull,
+
+   
+    branch 생성, branch 병합,
+
+   
+    협업을 위해 다른 로컬 저장소에서의 git clone, pull, push, ...
